@@ -21,7 +21,7 @@ Dataset used in this project is downloadd from kaggle
 - Rocket - Cost of mission in millions
 - Status missions - Mission Status whether success or fail
 ---
-Some of visualizations plotted in this project are :
+### Some of visualizations plotted in this project are :
 
     # Companies Vs Number of Launches
     # bar graph on Space launches in last 10 years
